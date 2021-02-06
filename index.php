@@ -71,7 +71,7 @@ else $wynik = mysqli_query($conn,"SELECT * FROM compass_data WHERE idstring LIKE
 <html lang="pl" dir="ltr">
   <head>
     <style>
-    	body
+body
 {
   background-color: #454545;
   align-items: center;
