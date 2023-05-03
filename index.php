@@ -1,4 +1,5 @@
 <?php
+//This account is only allowed to run SELECT queries.
 $servername = "mysql.ct8.pl";
 $username = "m12776_bdG64v7GR";
 $password = "FgAG8WZv9n1HSdBJ30yroMirKSv4K0MXGD";
